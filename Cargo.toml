@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "🐙 an orchestrator to untangle complex merges 🐙"
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
